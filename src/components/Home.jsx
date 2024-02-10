@@ -23,7 +23,6 @@ const Home = () => {
      <div>
       <h1>About us</h1>
       <p>At Webtech Web Development, we're a passionate team of front-end web developers dedicated to crafting stunning and user-friendly online experiences. With a keen eye for design and an arsenal of cutting-edge tools and technologies, we transform visions into responsive and visually captivating websites. Our mission is to elevate your digital presence, one pixel at a time. Let's bring your web dreams to life.
-With a focus on clean code and seamless user interactions, we specialize in translating ideas into pixel-perfect, browser-agnostic websites. Our commitment to innovation ensures your digital footprint stays ahead of the curve. Join us in redefining the web.
 </p>
      </div>
     </div>
